@@ -24,6 +24,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Merge Sort [Swift 5] | IOS Essentials For Interviews](https://www.youtube.com/watch?v=CLXS1XoihJI)
+- [Quick Sort [Swift 5] | IOS Essentials For Interviews](https://www.youtube.com/watch?v=jh2UXIEbD1w)
+- [Get Values from Info.plist with Few Line of Code | [SwiftUI]](https://www.youtube.com/watch?v=aR5sxY8aZMU)
+- [Download images from API using AsyncImage | [SwiftUI 3.0]](https://www.youtube.com/watch?v=-RCRLbdGKFI)
+- [How to create custom tab bar using SwiftUI](https://www.youtube.com/watch?v=phwSm4X7gbc)
 <!-- YOUTUBE:END -->
 
 ---
